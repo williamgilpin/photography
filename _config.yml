@@ -5,12 +5,12 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-52823035-5"
 
 # UI configs
-title: "Photography by William Gilpin"
+title: ""
 subtitle: "WG"
 author: "William Gilpin"
 header:
- title: "Photography"
- subtitle: "by William Gilpin"
+ title: "Photos"
+ subtitle: ""
 footer:
  name: "WG"
  bio: "xx."
