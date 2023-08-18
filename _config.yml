@@ -1,4 +1,5 @@
 # Base configs
+
 baseurl: "http://www.wgilpin.com/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -16,6 +17,12 @@ footer:
  bio: "xx."
  github: "https://www.github.com/williamgilpin"
 web_design: "AJ"
+# Configure which exif data to display
+# Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
+exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
+
   twitter: "https://www.twitter.com/wgilpin0"
   github: "https://www.github.com/williamgilpin"
+  linkedin: "https://linkedin.com/in/williamgilpin"
+

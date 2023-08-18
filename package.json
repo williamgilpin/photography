@@ -1,6 +1,6 @@
 {
   "name": "photography",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "A jekyll website for photographer cum developer",
   "main": "npmfile.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/williamgilpin/photography.git"
   },
   "keywords": [
     "photography",
@@ -20,19 +20,18 @@
     "portfolio website"
   ],
   "author": "Ram Patra",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "https://github.com/williamgilpin/photography/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://github.com/williamgilpin/photography#readme",
   "devDependencies": {
-    "del": "^2.2.2",
-    "gulp-image-resize": "^0.13.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^4.0.1",
-    "gulp-uglify": "^3.0.0"
-  },
-  "dependencies": {
-    "gulp": "^3.9.1"
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.0",
+    "sass": "^1.25.0"
   }
 }
